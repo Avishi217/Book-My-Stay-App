@@ -1,6 +1,5 @@
 import java.util.*;
 
-// Reservation class
 class Reservation {
     private String reservationId;
     private String guestName;
